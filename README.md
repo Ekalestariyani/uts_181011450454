@@ -1,7 +1,7 @@
 # ust_181011450454
 
 A new Flutter project.
-
+![logo](https://github.com/Ekalestariyani/uts_181011450454/blob/main/EKA11.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
